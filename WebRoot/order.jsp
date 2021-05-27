@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -193,7 +190,7 @@ function dil(form)
             <li><a href="#"></a></li>
             <li><a href="#"></a></li>
         </ul>	<br />
-    <span id="design">Designed by <a id="dum" href="http://www.javatpoint.com" target="_blank">www.javatpoint.com</a></span>
+    <span id="design">Designed by <a id="dum" href="http://www.simplilearn.com" target="_blank">Manish Kumar Arora</a></span>
     <script type="text/javascript">
     document.onload = ctck();
     </script>

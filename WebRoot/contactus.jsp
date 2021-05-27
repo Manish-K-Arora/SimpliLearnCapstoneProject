@@ -89,7 +89,7 @@ if(sds == null){alert("You are using a free package.\n You are not allowed to re
             <li><a href="#"></a></li>
             <li><a href="#"></a></li>
         </ul>	<br />
-    <span id="design">Designed by <a id="dum" href="http://www.javatpoint.com" target="_blank">www.javatpoint.com</a></span>
+    <span id="design">Designed by <a id="dum" href="http://www.simplilearn.com" target="_blank">Manish Kumar Arora</a></span>
     <script type="text/javascript">
     document.onload = ctck();
     </script>
